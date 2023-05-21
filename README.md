@@ -1,14 +1,16 @@
-# darknet_yolov4_api
+# darknet_AutoLabel_GUITool
 
 
-Install
+
+
+# Install
 
 ```
 pip install -r  requirements.txt
 ```
 
 
-Use
+# Use
 
 ```
 python  MainAutolabelUI.py
